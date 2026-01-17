@@ -1,0 +1,8 @@
+streamlit
+nltk
+spacy
+pandas
+numpy
+matplotlib
+scikit-learn
+en-core-web-sm
